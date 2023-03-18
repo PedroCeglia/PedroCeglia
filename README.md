@@ -1,5 +1,5 @@
 ## Hello, I'm Pedro Ceglia
-### Ola, meu nome é Pedro Ceglia
+### Ola, eu sou Pedro Ceglia
 <hr>
 
 ### Languages I've been working on (Linguagens que eu tenho trabalhado)
